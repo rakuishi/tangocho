@@ -6,7 +6,7 @@
 - [ ] respectively (副)それぞれ
 - [ ] likewise (副)同じように
 - [ ] agreeable (形)快適な
-- [ ] enphatically (副)きっぱりと、強調して
+- [ ] emphatically (副)きっぱりと、強調して
 - [ ] conventionally (副)従来の方法で
 - [ ] successfully (副)うまく
 - [ ] mature (動)成熟する
