@@ -12,3 +12,6 @@
 - [ ] mature (動)成熟する
 - [ ] restration (名)修復
 - [ ] regrettably (副)残念ながら
+- [ ] defective merchandise 欠陥商品
+- [ ] enthusiastically (副)熱狂的に
+- [ ] in excess of X X を超えて
