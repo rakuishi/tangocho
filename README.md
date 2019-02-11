@@ -1,8 +1,8 @@
 # 単語帳
 
 - [ ] eligible (形)資格のある
-- [ ] until further notice 追って通知があるまで
-- [ ] come into effect 効力を生じる
+- [ ] until further notice: 追って通知があるまで
+- [ ] come into effect: 効力を生じる
 - [ ] respectively (副)それぞれ
 - [ ] likewise (副)同じように
 - [ ] agreeable (形)快適な
@@ -12,6 +12,12 @@
 - [ ] mature (動)成熟する
 - [ ] restration (名)修復
 - [ ] regrettably (副)残念ながら
-- [ ] defective merchandise 欠陥商品
+- [ ] defective merchandise:  欠陥商品
 - [ ] enthusiastically (副)熱狂的に
-- [ ] in excess of X X を超えて
+- [ ] in excess of X: X を超えて
+- [ ] speculation (名)憶測
+- [ ] adhere to X: X に従う
+- [ ] feasiblility (名)実現可能性
+- [ ] consultation (不可算名詞)相談
+- [ ] broad (形)幅広い
+- [ ] considerable (副)かなり、大幅に
