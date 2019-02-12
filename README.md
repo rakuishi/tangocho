@@ -21,3 +21,7 @@
 - [ ] consultation (不可算名詞)相談
 - [ ] broad (形)幅広い
 - [ ] considerable (副)かなり、大幅に
+- [ ] a round of X: 一連の X ← 複数名詞
+- [ ] ideal (形)理想的な
+- [ ] local (形)地元の <-> locally (副)地元で
+- [ ] arrival (名)到着 語尾が -al だが形容詞ではない
