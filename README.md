@@ -25,7 +25,16 @@
 - [ ] ideal (形)理想的な
 - [ ] local (形)地元の <-> locally (副)地元で
 - [ ] arrival (名)到着 語尾が -al だが形容詞ではない
+- [ ] approval (名)承認
 - [ ] competitively (副)ほかに引けを取らない
 - [ ] appealing (形)魅力的な
 - [ ] a design appealed to X: X の興味を引いたデザイン
 - [ ] medication, medicine (名)薬
+- [ ] precisely eight years: ちょうど 8 年。副詞 + 数詞(形容詞) + 名詞
+- [ ] foundation (不可算名詞)創業 (可算名詞)基盤、基金
+- [ ] feature (動)〜を呼び物にする (名)特徴
+- [ ] advertising (不可算名詞)広告業、広告 (可算名詞)広告
+- [ ] confident (形)自信がある
+- [ ] confidential (形)機密の
+- [ ] manufacture (不可算名詞)製造業
+- [ ] manufacturer (名)メーカー
