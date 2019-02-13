@@ -25,3 +25,7 @@
 - [ ] ideal (形)理想的な
 - [ ] local (形)地元の <-> locally (副)地元で
 - [ ] arrival (名)到着 語尾が -al だが形容詞ではない
+- [ ] competitively (副)ほかに引けを取らない
+- [ ] appealing (形)魅力的な
+- [ ] a design appealed to X: X の興味を引いたデザイン
+- [ ] medication, medicine (名)薬
