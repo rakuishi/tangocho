@@ -38,3 +38,7 @@
 - [ ] confidential (形)機密の
 - [ ] manufacture (不可算名詞)製造業
 - [ ] manufacturer (名)メーカー
+- [ ] complete (形)完璧な、完了して
+- [ ] funder (名)資金提供者
+- [ ] respect (名)敬意 (動)〜を尊敬する
+
