@@ -41,4 +41,5 @@
 - [ ] complete (形)完璧な、完了して
 - [ ] funder (名)資金提供者
 - [ ] respect (名)敬意 (動)〜を尊敬する
-
+- [ ] substitute (名)代役 (動)substitute X for Y: X を Y の代わりにする
+- [ ] formal (形)フォーマルな(人を修飾しない)
