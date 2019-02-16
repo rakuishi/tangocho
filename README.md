@@ -43,3 +43,13 @@
 - [ ] respect (名)敬意 (動)〜を尊敬する
 - [ ] substitute (名)代役 (動)substitute X for Y: X を Y の代わりにする
 - [ ] formal (形)フォーマルな(人を修飾しない)
+- [ ] be worth X: X の価値がある
+- [ ] arguably (副)議論の余地はあるが
+- [ ] managerial (形)管理職の
+- [ ] valued at X: X の価値がある
+- [ ] be critical of X: X について批判的な
+- [ ] initiative (名)新しい計画
+- [ ] prior to X: X(事)に先だって
+- [ ] than anticipated: 予想された以上に
+- [ ] excluding (前)...を除いて
+- [ ] is divided into sections: いくつかのセクションに分かれている
