@@ -53,3 +53,19 @@
 - [ ] than anticipated: 予想された以上に
 - [ ] excluding (前)...を除いて
 - [ ] is divided into sections: いくつかのセクションに分かれている
+- [ ] be unlikely to do: 〜しそうもない
+- [ ] characteristic (形)特徴のある (名)特徴
+- [ ] potential (不可算名詞)可能性
+- [ ] objectionable (形)不愉快な
+- [ ] prosperity (不可算名詞)繁栄
+- [ ] near (副)近付く
+- [ ] nearly (副)ほとんど
+- [ ] be commited to X: X に熱心に取り組む to は前置詞で動名詞が続く
+- [ ] doubtful (形)疑っている
+- [ ] timely (形)タイミングのよい
+- [ ] complaint (名)苦情
+- [ ] regarding (前)〜に関する
+- [ ] engage in X: X に参加する
+- [ ] effective next month = as of next month: 来月から
+- [ ] enthusiast (名)熱心な人
+- [ ] voluntary (形)任意の
