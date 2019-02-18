@@ -69,3 +69,13 @@
 - [ ] effective next month = as of next month: 来月から
 - [ ] enthusiast (名)熱心な人
 - [ ] voluntary (形)任意の
+- [ ] as predicted: 予想された通り
+- [ ] how 形容詞 or 副詞
+- [ ] declare O C: O が C だと発表する
+- [ ] be dependent on, depend on(能動態のみ): ...に左右される
+- [ ] be indicative of X: X を示している
+- [ ] attendance (不可算名詞、可算名詞)参加者(数)
+- [ ] widening (名)拡張
+- [ ] examine O: O を詳しく調べる
+- [ ] following (形)次の (前)の後で
+- [ ] be compliant with X / be in compliance with X: X を遵守している
