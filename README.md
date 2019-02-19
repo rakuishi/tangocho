@@ -79,3 +79,12 @@
 - [ ] examine O: O を詳しく調べる
 - [ ] following (形)次の (前)の後で
 - [ ] be compliant with X / be in compliance with X: X を遵守している
+- [ ] pertain to X: X に関係する
+- [ ] require that S V: require のような要求を表す動詞に続く that 節では V が原型になる
+- [ ] streamline (他動詞)...を能率化する
+- [ ] fail to do: 〜しそこなう
+- [ ] encourage O to do: O に do することを推奨する
+- [ ] drop by: 〜に立ち寄る
+- [ ] result in X: X という結果に終わる。result は自動詞
+- [ ] struggle to do: do しようと奮闘する。struggle は自動詞
+- [ ] spend X on Y: Y に X を費やす
