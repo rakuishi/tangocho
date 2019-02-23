@@ -51,7 +51,7 @@
 - [ ] initiative (名)新しい計画
 - [ ] prior to X: X(事)に先だって
 - [ ] than anticipated: 予想された以上に
-- [ ] excluding (前)...を除いて
+- [ ] excluding, except, except for (前)...を除いて
 - [ ] is divided into sections: いくつかのセクションに分かれている
 - [ ] be unlikely to do: 〜しそうもない
 - [ ] characteristic (形)特徴のある (名)特徴
@@ -65,6 +65,7 @@
 - [ ] timely (形)タイミングのよい
 - [ ] complaint (名)苦情
 - [ ] regarding (前)〜に関する
+- [ ] regardless of X: X に関係なく
 - [ ] engage in X: X に参加する
 - [ ] effective next month = as of next month: 来月から
 - [ ] enthusiast (名)熱心な人
@@ -80,7 +81,7 @@
 - [ ] following (形)次の (前)の後で
 - [ ] be compliant with X / be in compliance with X: X を遵守している
 - [ ] pertain to X: X に関係する
-- [ ] require that S V: require のような要求を表す動詞に続く that 節では V が原型になる
+- [ ] require that S V: require, suggest のような要求や提案を表す動詞に続く that 節では V が原型になる
 - [ ] streamline (他動詞)...を能率化する
 - [ ] fail to do: 〜しそこなう
 - [ ] encourage O to do: O に do することを推奨する
@@ -88,3 +89,16 @@
 - [ ] result in X: X という結果に終わる。result は自動詞
 - [ ] struggle to do: do しようと奮闘する。struggle は自動詞
 - [ ] spend X on Y: Y に X を費やす
+- [ ] manage to do: なんとか〜する
+- [ ] S is located on X: S は X にある
+- [ ] send X Y: X に Y を送る
+- [ ] inform + 人 + that S V: 人に S V を知らせる
+- [ ] retire from teaching: retire は自動詞
+- [ ] dedicate X to Y: X を Y に捧げる
+- [ ] adverse (形)好ましくない
+- [ ] If not, S V: そうでなければ
+- [ ] disposal (名)処分
+- [ ] when (customers are) opening a new account: while も同様に省略可
+- [ ] notwithstanding = despite = in spite of
+- [ ] given (前置詞)〜を考慮すると
+- [ ] besides = in addition to
