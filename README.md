@@ -98,7 +98,9 @@
 - [ ] adverse (形)好ましくない
 - [ ] If not, S V: そうでなければ
 - [ ] disposal (名)処分
-- [ ] when (customers are) opening a new account: while も同様に省略可
+- [ ] when (customers are) opening a new account: while, if も同様に省略可
 - [ ] notwithstanding = despite = in spite of
 - [ ] given (前置詞)〜を考慮すると
-- [ ] besides = in addition to
+- [ ] besides = in addition to = aside from
+- [ ] provided that = providing (接)〜した場合に限り、〜という条件で
+- [ ] in light of (前)〜を考慮して
