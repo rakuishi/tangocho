@@ -104,3 +104,14 @@
 - [ ] besides = in addition to = aside from
 - [ ] provided that = providing (接)〜した場合に限り、〜という条件で
 - [ ] in light of (前)〜を考慮して
+- [ ] upon X: X してすぐに
+- [ ] subscribe to X: X を定期購読する / subscribe X: X に署名する
+- [ ] throughtout (前)〜のいたる所に, 〜の間じゅう
+- [ ] address (他)〜を対処する, 〜について話をする
+- [ ] be poised to do = be about to do
+- [ ] secure X: X を確保する
+- [ ] offer to do: 〜すると申し出る
+- [ ] offer 人 物: 人に物を提供する
+- [ ] present X: X を行う
+- [ ] attribute X to Y: X の要因は Y だ
+- [ ] refrain from X: X するのを控える
