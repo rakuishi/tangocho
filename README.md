@@ -99,7 +99,7 @@
 - [ ] If not, S V: そうでなければ
 - [ ] disposal (名)処分
 - [ ] when (customers are) opening a new account: while, if も同様に省略可
-- [ ] notwithstanding = despite = in spite of
+- [ ] notwithstanding = despite = in spite of = 〜にもかかわらず
 - [ ] given (前置詞)〜を考慮すると
 - [ ] besides = in addition to = aside from
 - [ ] provided that = providing (接)〜した場合に限り、〜という条件で
@@ -115,3 +115,22 @@
 - [ ] present X: X を行う
 - [ ] attribute X to Y: X の要因は Y だ
 - [ ] refrain from X: X するのを控える
+- [ ] supplement (動)〜を補う
+- [ ] be delighted that: 〜であることを喜ぶ(形)
+- [ ] be excited about X: X にわくわくしている(形)
+- [ ] crowded (形)混雑した
+- [ ] report to work: 出勤する
+- [ ] Altogether, (副)総じて
+- [ ] other (形)ほかの, others (代名詞)
+- [ ] arrange for X to do: X が〜するよう手配する
+- [ ] only to do: 結局ただ〜するだけの結果になる
+― [ ] much (単数名詞)おおくのこと
+- [ ] be acquainted with X: X に精通している
+- [ ] grants X Y: X に Y を与える
+- [ ] anticipate X: X を期待している
+- [ ] none: 不定名詞, 複数名詞を指して、ひとつもない
+- [ ] as well as = and
+- [ ] credit X to Y: X を Y のおかげとする
+- [ ] in accordance with  = according to = に従って
+- [ ] forward X: X を転送する
+- [ ] underneath (前)〜の下に
