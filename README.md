@@ -124,9 +124,9 @@
 - [ ] other (形)ほかの, others (代名詞)
 - [ ] arrange for X to do: X が〜するよう手配する
 - [ ] only to do: 結局ただ〜するだけの結果になる
-― [ ] much (単数名詞)おおくのこと
+- [ ] much (単数名詞)おおくのこと
 - [ ] be acquainted with X: X に精通している
-- [ ] grants X Y: X に Y を与える
+- [ ] grant X Y: X に Y を与える
 - [ ] anticipate X: X を期待している
 - [ ] none: 不定名詞, 複数名詞を指して、ひとつもない
 - [ ] as well as = and
@@ -134,3 +134,18 @@
 - [ ] in accordance with  = according to = に従って
 - [ ] forward X: X を転送する
 - [ ] underneath (前)〜の下に
+- [ ] few: 複数扱いの主語 ↔ everybody: 単数扱いの主語
+- [ ] another: (形)可算名詞の単数形に付与 ↔ other: (形)可算名詞の複数形に付与
+- [ ] consider O/ing: 〜しようかと考えている
+- [ ] with X + 分詞: X が〜した状態で
+- [ ] the single largest/biggest: 中でも一番大きな
+- [ ] He didn't like the idea, nor did I. 彼はその考え方が気に入っていなかったし、私もそうだった。so も同様の倒置が起こる
+- [ ] in support of X: X を支持して
+- [ ] draw (他)〜を描く、注意を引く
+- [ ] represent X: X を代表して
+- [ ] turn down X: X を断る
+- [ ] go on X: X しに行く
+- [ ] emphasis (不可算名詞)強調
+- [ ] accross from: 〜の向かいに
+- [ ] costly (形)費用のかかる。ly だが形容詞
+- [ ] discuss X/wh句: について話し合う
