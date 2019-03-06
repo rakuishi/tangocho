@@ -147,5 +147,16 @@
 - [ ] go on X: X しに行く
 - [ ] emphasis (不可算名詞)強調
 - [ ] accross from: 〜の向かいに
-- [ ] costly (形)費用のかかる。ly だが形容詞
+- [ ] costly (形)費用のかかる。ly だが形容詞。timly も同様
 - [ ] discuss X/wh句: について話し合う
+- [ ] promising (形)有望な
+- [ ] on one's own: 一人で
+- [ ] decide against doing X !== decide on doing X
+- [ ] be pleased to do: 喜んで〜する / be pleased with X: X に満足する
+- [ ] as to (前)〜について
+- [ ] peak at: ピークに達する
+- [ ] size and weight limits
+- [ ] provision (名)条約、規定
+- [ ] open to the public: 一般公開されている
+- [ ] consist of X: X から成り立っている
+- [ ] compliment X: X を褒め称える
